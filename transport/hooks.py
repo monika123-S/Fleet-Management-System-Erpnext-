@@ -242,3 +242,11 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+doctype_list_js = {
+    "BPCL Company": "transport/transport/transport/doctype/bpcl_company/bpcl_company_list.js",
+    "Bank Account Integration": "transport/transport/transport/doctype/bank_account_integration/bank_account_intergration_list.js"
+}
+
+
+
+
